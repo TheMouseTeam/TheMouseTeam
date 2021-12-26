@@ -5,5 +5,5 @@ We also serve our clients and bring their app ideas to life. We are the Mouse Te
 
 Visit our website at: https://themouseteam.github.io
 
-- 📫 How to reach me ? Follow the 🧠 behind the apps at @KonstantinosBarmpas
+- 📫 How to reach me ? Follow the 🧠 behind the apps at @KonstantinosBarmpas (Github), @ntinosbarmpas (Twitter) and https://www.linkedin.com/in/konstantinos-barmpas/ (Linkedin)
 
